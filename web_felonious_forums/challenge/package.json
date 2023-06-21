@@ -16,7 +16,7 @@
 		"dompurify": "^2.3.8",
 		"express": "^4.17.2",
 		"jsdom": "^19.0.0",
-		"jsonwebtoken": "^8.5.1",
+		"jsonwebtoken": "^9.0.0",
 		"node-cache": "^5.1.2",
 		"nunjucks": "^3.2.3",
 		"puppeteer": "^13.1.3",
