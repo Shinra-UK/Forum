@@ -1,4 +1,4 @@
-FROM node:current-buster-slim
+FROM node:20.14-buster-slim
 
 # Install packages
 RUN apt-get update \
